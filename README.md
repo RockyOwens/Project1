@@ -1,3 +1,6 @@
+# Project-1---SoccerPlayerAnalysis
+Group Project 1
+
 SOCCER PLAYER ANALYSIS
 
 Using a Kaggle.com merged data set from trasnfermarkt.de and fbref.com, soccer players from the top five
@@ -62,5 +65,4 @@ A player’s peak age of value is at 25/26 then declines.
 DF position plays the most minutes and receive the most penalties.
  
 Not all analysis is beneficial, as in foot preference.
-
 
