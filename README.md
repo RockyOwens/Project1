@@ -45,5 +45,22 @@ CREATED BAR GRAPH SHOWING PLAYER FOOT PREFERENCE - IS IT VALUABLE?
 
 GENERATE ANALYSIS & CONLUSIONS:
 
+The league with the highest value is Premier League at over $7.25B.
+
+The percentage of players is distributed evenly across the leagues at near 21%.
+
+Barcelona is the highest value squad at almost $1B.
+
+Spain has the most players in the leagues with 325 of 2117 players.
+
+T-Test analysis showed data significance since the p-value is very low (<0.05)
+
+FW/MF positions have the highest goal distributions.
+
+A player’s peak age of value is at 25/26 then declines.
+
+DF position plays the most minutes and receive the most penalties.
+ 
+Not all analysis is beneficial, as in foot preference.
 
 
